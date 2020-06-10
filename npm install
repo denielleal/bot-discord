@@ -1,0 +1,6 @@
+install these npm  before running
+npm init
+npm install discord.js // that is library discord
+npm install --save nodemon // in case of problems installing npm press windows + r, type %appdata% after searching for the 
+npm folder and enter the folders or files named nodemon 
+
